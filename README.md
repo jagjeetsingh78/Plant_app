@@ -68,6 +68,6 @@ git clone https://github.com/your-username/Plant_app
 
  
 
-flutter pub get
+
 
 
