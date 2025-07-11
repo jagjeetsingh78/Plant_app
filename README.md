@@ -65,7 +65,11 @@ Clone the repo and install the dependencies:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/Plant_app
-### 2.Navigate to the project directory
+
+ 
+
+### 2. Navigate 
 ```bash
 cd Plant_app
+
 
