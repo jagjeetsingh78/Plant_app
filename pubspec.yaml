@@ -1,0 +1,34 @@
+name: plant_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  camera: ^0.10.5+9
+  path_provider: ^2.1.5
+  path: ^1.9.1
+  permission_handler: ^12.0.1
+  image_picker: ^1.1.2
+  collection: ^1.18.0
+  image: ^4.1.3
+  tflite_flutter: ^0.11.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  mockito: ^5.4.6
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/models/model.tflite
+    - assets/labels.txt
