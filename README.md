@@ -68,8 +68,6 @@ git clone https://github.com/your-username/Plant_app
 
  
 
-### 2. Navigate 
-```bash
-cd Plant_app
+flutter pub get
 
 
